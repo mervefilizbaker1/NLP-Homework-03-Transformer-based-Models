@@ -1,4 +1,4 @@
-# NLP HW03 — Text Classification: Fine-tuning vs Zero-shot LLMs
+# NLP HW03 — Transformer based Models
 
 This repository contains the code and prediction outputs for a text classification assignment comparing fine-tuned transformer models, zero-shot LLM prompting, and traditional baselines on the emotion classification task.
 
