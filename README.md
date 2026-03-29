@@ -79,7 +79,7 @@ pip install datasets transformers peft accelerate evaluate scikit-learn groq
 1. Open `NLP_HW03.ipynb` in Google Colab
 2. Enable GPU: **Runtime → Change runtime type → T4 GPU**
 3. Mount Google Drive and set `BASE_PATH` to your desired output folder
-4. Add your `GROQ_API_KEY` to Colab Secrets (🔑 panel on the left sidebar)
+4. Add your `GROQ_API_KEY` to Colab Secrets 
 5. For the local Ollama model: install [Ollama](https://ollama.com), run `ollama run gemma3:4b`, then expose it via [ngrok](https://ngrok.com) and update `OLLAMA_URL` in the notebook
 6. Run all cells in order
 
